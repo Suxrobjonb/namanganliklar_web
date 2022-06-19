@@ -1,0 +1,189 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+}
+.container{
+  width: 1440px;
+  margin: 0 auto;
+}
+.header{
+  background: #F6F6F9;
+  height: 332px;
+}
+.logo{
+  display: flex;
+  align-items: center;
+  padding-top: 47px;
+  padding-left: 127px;
+}
+.logo .logo_img{
+  margin-right: 23px;
+}
+.logo_number{
+  display: flex;
+  align-items: center;
+  width: 258px;
+  height: 21px;
+  margin-right: 311px;
+}
+.logo_number .number{
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #285193;
+  margin-right: 20px;
+}
+.lupa{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 38.1px;
+  height: 40px;
+  background: #FFFFFF;
+  border-radius: 5px;
+  margin-right: 22px;
+}
+.language{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 64.76px;
+  height: 40px;
+  background: #FFFFFF;
+  border-radius: 5px;
+  margin-right: 23px;
+}
+.language .language_title{
+  width: 21px;
+  height: 21px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #535353;    
+}
+.link{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 146px;
+  height: 40px;
+  background: linear-gradient(90deg, #1E96C8 15.07%, #37AEE2 85.96%);
+  border-radius: 5px;
+  margin-right: 121px;
+}
+.link a{
+  width: 97px;
+  height: 21px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+.nav {
+  display: flex;
+  margin: 20px 195px;
+  align-items: center;
+  background: #fff;
+  width: 970px;
+  height: 60px;
+  gap: 15px;
+  font-size: 20px;
+}
+.navbar-itm-list {
+  color: black;
+}
+.reklama {
+  margin-left: 119px;
+}
+.main-nav {
+background: #F6F6F9;
+margin-top: 20px;
+}
+.father {
+  display: flex;
+  align-items: center;
+  gap: 25PX;
+  margin: 30px 128px;
+}
+.list-covid-covid-19 {
+  font-size: 25px;
+}
+.list-covid-sick {
+color: #DB0000;
+}
+.list-covid-healed{
+color:#05B135;
+}
+.news ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content:space-between;
+}
+
+.news ul li {
+  padding: 8px;
+  margin-left: 10px;
+  width: 380px;
+  height: 300px;
+}
+
+.news img {
+  width: 380px;
+}
+
+.news ul h3 {
+  width: 380px;
+  margin: 0;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #202020;
+}
+
+.main-footer {
+  background:#FCF3E0 ;
+}
+.on-off {
+  display: flex;
+  align-items: center;
+}
+.link-new {
+  display: flex;
+  align-items: center;
+  background: #FE6B30;
+  width: 264px;
+  height: 42px;
+}
+.text-1 {
+  display: flex;
+}
+.text-1 {
+  display: flex;
+  align-items: center;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
